@@ -21,4 +21,4 @@ This project involves manual testing of a simple To-Do List Android application 
 - Bug Report Spreadsheet
 - Usability Feedback Document
 
-Tested by: **Abhigna Yelleni**
+
