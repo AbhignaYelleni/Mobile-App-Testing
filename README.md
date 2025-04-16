@@ -21,4 +21,8 @@ This project involves manual testing of a simple To-Do List Android application 
 - Bug Report Spreadsheet
 - Usability Feedback Document
 
+## Bugs Reported
 
+![image](https://github.com/user-attachments/assets/cc01bf53-1830-439d-90cf-9d7e5127b28c)
+
+![image](https://github.com/user-attachments/assets/1c1051bb-e6dc-4e4a-8f16-604eee03b8b4)
